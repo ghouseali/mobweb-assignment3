@@ -1,0 +1,42 @@
+*{
+   margin: 0px;
+   padding: 0px; 
+}
+body{
+    background-color: #f7f9f9;
+    margin-left: 250px;
+    margin-top: 20px;
+    background-image: url(images/desktop.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#container ul {
+    list-style: none;
+}
+#container ul li {
+   background-color: green; 
+   width: 150px;
+   border-radius: 15px;
+   border: 1px solid black;
+   height: 50px;
+  text-align: center;
+  line-height: 50px;
+  float: left;
+  color: white;
+  font-size: 19px;
+  position: relative;
+}
+#container ul li:hover{
+    background-color: black;     
+}
+#container ul ul {
+    display: none;
+}
+#container ul li:hover > ul{
+    display: block;
+}
+#container ul ul ul{
+    margin-left: 150px;
+    top: 0px;
+    position: absolute;
+}

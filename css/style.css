@@ -1,0 +1,386 @@
+body{
+
+   margin: 0;
+   padding: 0;
+   background-color: lavender;
+   
+ 
+
+}
+
+.header{
+    background-color:#316DC3;
+    height: auto;
+    width: 100%;
+   
+
+   
+  
+}
+
+
+.ul,li,a{
+
+    color: white;
+    display: inline;
+    text-decoration: none;
+    
+
+
+}
+
+.ul,li{
+    
+   
+ 
+   padding-top: 10px;
+   padding-bottom: 20px;
+   padding-left: 25px;
+   float: left;
+   
+    
+    
+}
+
+#para{
+    color: white;
+    margin-left: 90px;
+    float: left;
+   
+}
+
+.w1{
+
+    height: 30px;
+    width: 100px;
+    background-color: white;
+    float: right;
+    margin-left: 10px;
+    margin-bottom: 10px;
+
+   
+}
+
+.w2{
+
+    margin-right: 120px;
+    margin-bottom: 10px;
+   
+  
+}
+
+
+
+#para1{
+
+    color: green;
+    text-align: center;
+}
+
+.U1{
+    color: black;
+   
+    
+}
+
+.Y1{
+
+   
+    margin-left: 50%;
+}
+
+.ik{
+    margin-left: 80px;
+}
+
+.nav {
+    margin-top: 30px;
+    background-attachment: fixed;
+}
+
+
+
+
+.f1{
+    background-color: #316DC3;
+    text-align: center;
+    padding: 10px;
+    border-radius: 50px;
+    height: 40px;
+    width: 100px;
+    color: white;
+
+}
+
+.f2{
+   
+    color: black;
+    display: block;
+   
+
+}
+
+.f2:hover{
+
+    background-color: #316DC3;
+    text-align: center;
+    padding: 10px;
+    border-radius: 50px;
+    height: 40px;
+    width: 100px;
+    color: white;
+
+}
+.f3{
+    color: black;
+}
+.f3:hover{
+
+    background-color: #316DC3;
+    text-align: center;
+    padding: 10px;
+    border-radius: 50px;
+    height: 40px;
+    width: 150px;
+    color: white;
+
+}
+
+.f4{
+    color: black;
+}
+.f4:hover{
+
+    background-color: #316DC3;
+    text-align: center;
+    padding: 10px;
+    border-radius: 50px;
+    height: 40px;
+    width: 150px;
+    color: white;
+
+}
+
+
+.f5{
+    color: black;
+}
+.f5:hover{
+
+    background-color: #316DC3;
+    text-align: center;
+    padding: 10px;
+    border-radius: 50px;
+    height: 40px;
+    width: 100px;
+    color: white;
+
+}
+
+.f6{
+    color: black;
+}
+.f6:hover{
+
+    background-color: #316DC3;
+    text-align: center;
+    padding: 10px;
+    border-radius: 50px;
+    height: 40px;
+    width: 100px;
+    color: white;
+
+}
+.f7{
+    color: black;
+}
+.f7:hover{
+
+    background-color: #316DC3;
+    text-align: center;
+    padding: 10px;
+    border-radius: 50px;
+    height: 40px;
+    width: 100px;
+    color: white;
+
+}
+
+
+.nav ul ul li {
+
+    color: black;
+}
+
+.nav ul ul {
+    display: none;
+	position: absolute; 
+	top: 60px;
+}
+
+.nav ul li:hover > ul {
+	display:inherit;
+}
+
+.nav ul ul li {
+	width:230px;
+	float:none;
+	display:list-item;
+	position: relative;
+}
+
+.mp{
+
+    height: 30px;
+    width: 1200px;
+    background-color:#316DC3;
+    margin-top: 20px;
+    text-align: center;
+    line-height: 20px;
+}
+#rt{
+    color: white;
+    padding-top: 5px;
+}
+.he{
+
+    
+    margin-top: 50px;
+
+}
+#heading{
+    margin-top: 50px;
+    margin-left: 40%;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+#her{
+    margin-top: 50px;
+    font-size: 30px;
+    font-weight: bold;
+}
+.line{
+    height: 2px;
+    width: 40px;
+    background-color: green;
+    margin-top: 35px;
+    margin-left: 45%;
+}
+.line1{
+    height: 2px;
+    width: 40px;
+    background-color: green;
+    margin-top: 35px;
+    
+}
+
+#uo{
+
+    margin: 50px;
+    text-align: justify;
+}
+.cl{
+    
+    height: auto;
+    width: 1000px;
+    margin-left: 90px;
+}
+
+.sub{
+    height: auto;
+    width: 100%;
+    background-color: #316DC3;
+    padding-bottom: 50px;
+    margin-bottom: 50px;
+}
+
+.cr{
+
+   margin-top: 100px;
+   margin-left: 50px;
+   margin-right: 60px;
+   padding-left: 20px;
+   
+}
+
+#ut{
+    margin-left: 50px;
+    margin-top: 20px;
+    padding-bottom: 20px;
+}
+#bn{
+
+    margin-left: 35%;
+
+
+}
+
+.fg{
+    
+    height: 200px;
+    width: 400px;
+    background-color: white;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+
+#jh{
+
+margin-left: 40%;
+margin-top: 40px;
+
+}
+
+#gh{
+
+    margin-left: 50px;
+    margin-top: 20px;
+    color: #316DC3;
+}
+
+.hl{
+
+    background-color: white;
+    margin-top: 50px;
+}
+
+.wrapper{
+    background-color: white;
+}
+.line2{
+
+    background-color: green;
+    width: 50px;
+    height: 2px;
+}
+
+.line3{
+    height: 80px;
+    width: 410px;
+    background-color: lavender;
+    margin-top: 20px;
+    float: left;
+    margin-left: 20px;
+}
+
+.kjj{
+    padding-top: 50px;
+}
+
+
+.mt{
+    margin-top: 300px;
+}
+
+hr{
+
+    background-color: green;
+    height: 2px;
+   
+}
+
+.fot{
+    background-color: #316DC3;
+    
+}
